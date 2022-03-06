@@ -1,37 +1,78 @@
-## Welcome to GitHub Pages
+# **Welcome to Peak Anime Pages**
 
-You can use the [editor on GitHub](https://github.com/cqthirdy824/brebeuf-b/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Peak Anime Page, the topic in this page is peak anime for every genre
+The genre included are [shounen](https://en.wikipedia.org/wiki/Sh%C5%8Dnen_manga#:~:text=Sh%C5%8Dnen%20manga%20(%E5%B0%91%E5%B9%B4%E6%BC%AB%E7%94%BB)%2C,individual%20readers%20and%20different%20magazines.), [shojo](https://en.wikipedia.org/wiki/Sh%C5%8Djo_manga#:~:text=Sh%C5%8Djo%20manga%20(%E5%B0%91%E5%A5%B3%E6%BC%AB%E7%94%BB)%2C,literally%20meaning%20%22young%20woman%22.), [seinen](https://en.wikipedia.org/wiki/Seinen_manga), [josie](https://en.wikipedia.org/wiki/Josei_manga), [kodomomuke](https://en.wikipedia.org/wiki/Children%27s_anime_and_manga). There are also sub-genre like isekai, romcom, slice of life and the rest but they all fall in in into the five main genre.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# **The Five Main Genre:**
 
-### Markdown
+**Shounen**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is for the younger audience and can be watched by all ages
 
-```markdown
-Syntax highlighted code block
+The Peak Shounen I recommend are: 
 
-# Header 1
-## Header 2
-### Header 3
+**Jojo Bizarre Adventures**
 
-- Bulleted
-- List
+**Attack on Titan**
 
-1. Numbered
-2. List
+**Horimiya**
 
-**Bold** and _Italic_ and `Code` text
+**Bleach**
 
-[Link](url) and ![Image](src)
-```
+**One piece**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# **Shojo**
 
-### Jekyll Themes
+This is for the female audience but can be watched by all genders
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cqthirdy824/brebeuf-b/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The Peak Shojo I recommend are:
 
-### Support or Contact
+**Love is War**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Silent Voice**
+
+**Clannad**
+
+**Hotarubi no Mori E**
+
+# **Seinen**
+
+This is for the more mature or adult audience
+
+**Berserk**
+
+**Cowboy Bebop**
+
+**Bungo Stray Dogs**
+
+**Fate/Zero**
+
+**Helsing Ultimate**
+
+# **Josie**
+
+This is more realitic love for the female audience but can be watched by all
+
+**Chihayafuru**
+
+**Nana**
+
+**Fruit Basket**
+
+**Yuri on Ice**
+
+**Bunny Drop**
+
+# **Kodomomuke**
+
+This is for the Children 
+
+**Doraemon**
+
+**Pokemon**
+
+**Astro Boy**
+
+**Kirby of the Stars**
+
+**Demashita! Powerpuff Girls Z**
